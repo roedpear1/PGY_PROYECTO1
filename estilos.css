@@ -1,5 +1,23 @@
 .center {
     margin: auto;
-    width: 50%;
-    padding: 10px;
+    width: 70%;
+    padding: 5px;
+}
+
+.titulo{
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+}
+.titulo2{
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+.lista{ 
+    padding-top: 30px;
+    margin-left: 220px;
 }
