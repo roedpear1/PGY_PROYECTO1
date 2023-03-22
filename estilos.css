@@ -25,3 +25,8 @@
 .margen{
     margin-left: 220px;
 }
+
+.volver{
+    text-align: right;
+    margin-right: 10px;
+}
